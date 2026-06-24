@@ -1,0 +1,1 @@
+var e=`/assets/cta-Zd1aNcGY.jpg`;export{e as t};

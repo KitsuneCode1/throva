@@ -1,0 +1,1 @@
+var e=`/assets/recovery-BUNqHwwu.jpg`;export{e as t};
